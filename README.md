@@ -1,6 +1,6 @@
 # Rust_apache_log_parser
 
-This the version 4.0 which reads one file and processes logs concurrently, that is the file is being read in buffer chunks, and while sending and parser parse and vice versa. Command line arguments were removed, change environmental variables inside environmental_vars.env.
+The 20k / sec apache log parser that parses and uploads to opensearch clutser, and also to AWS s3 bucket
 
 
 
